@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MyApp",
+  "short_name": "MyApp",
+  "version": "org.apache.cordova.myApp",
+  "description": "Cordova App Example",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
